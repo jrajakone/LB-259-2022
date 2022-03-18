@@ -24,9 +24,10 @@ Lizenz veröffentlicht worden sein.
 	
 Datensatz "Montreal Crime Data" und ihre Felder beschreiben:
 
-In dieser Datensatz steht eine Liste von Straftaten (von 01.01.2015 bis 23.08.2021), die von der Polizei der Stadt Montreal registriert wurde. In dem Spalten stehen welche Art der Straftat begangen wurde und wann dieses Ereignis stattfand. Es steht auch, wo es genau passiert ist (PLZ, Stadt, Stadtviertel und präzise Koordinaten). 
+In dieser Datensatz steht eine Liste von Straftaten (von 01.01.2015 bis 23.08.2021), die von der Polizei der Stadt Montreal registriert wurde. In dem Spalten stehen welche Art der Straftat begangen wurde und wann dieses Ereignis stattfand. Es steht auch, wo es genau passiert ist (PLZ, Stadt, Stadtgebiete und präzise Koordinaten). 
 
 Datenschutz-Richtlinien beschreiben:
+
 
 
 =================================================================================================================================================================
